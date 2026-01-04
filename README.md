@@ -1,6 +1,9 @@
 # Hi 👋, I'm Shashini Ahinsa
 
-### A passionate Javascript developer
+# About Me
+I’m an undergraduate at the University of Colombo School of Computing (UCSC).  
+Interested in software engineering, backend development, and building real-world applications using Java and web technologies.
+
 
 - 📫 How to reach me **shashinikarunathilaka01@gmail.com**
 
