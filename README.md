@@ -11,6 +11,9 @@ Interested in software engineering, full-stack development, and building real-wo
 <p align="left">
 <a href="https://github.com/shashiniahinsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shashiniahinsa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahinsa-karunathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahinsa-karunathilaka" height="30" width="40" /></a>
+<a href="https://instagram.com/_ahi__01__" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
 </p>
 
 ## Language Stack
